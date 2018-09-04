@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "30568462",
+    "hash" : "0",
     "id" : "CB0AB131",
     "lastKnownWriteTime" : 1536076394,
     "last_content_update" : 1536076394287,
@@ -13,7 +13,7 @@
     "project_path" : "content/talk/example-talk.md",
     "properties" : {
         "cursorPosition" : "30,0",
-        "scrollLine" : "20"
+        "scrollLine" : "0"
     },
     "relative_order" : 13,
     "source_on_save" : false,
