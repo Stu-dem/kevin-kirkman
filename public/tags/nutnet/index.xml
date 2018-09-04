@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nutnet on Kevin Kirkman</title>
+    <link>/tags/nutnet/</link>
+    <description>Recent content in Nutnet on Kevin Kirkman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/nutnet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local loss and spatial homogenization of plant diversity reduce ecosystem multifunctionality</title>
+      <link>/publication/nature-ee-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/nature-ee-2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

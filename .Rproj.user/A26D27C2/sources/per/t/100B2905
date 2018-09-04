@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536071777369.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2066398355",
+    "id" : "100B2905",
+    "lastKnownWriteTime" : 1536075604,
+    "last_content_update" : 1536075604458,
+    "path" : "~/GitHub/grassland-lab-websites/kevin-kirkman/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "71,11",
+        "scrollLine" : "67"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
