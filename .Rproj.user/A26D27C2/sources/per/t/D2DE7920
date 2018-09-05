@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536136686637.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4144374403",
+    "id" : "D2DE7920",
+    "lastKnownWriteTime" : 1536071772,
+    "last_content_update" : 1536071772,
+    "path" : "~/GitHub/grassland-lab-websites/kevin-kirkman/themes/hugo-academic/theme.toml",
+    "project_path" : "themes/hugo-academic/theme.toml",
+    "properties" : {
+        "cursorPosition" : "3,76",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
